@@ -1,0 +1,9 @@
+[package]
+name = "merge-ted"
+version = "0.1.0"
+authors = ["Vee Satayamas <vsatayamas@gmail.com>"]
+
+[dependencies]
+quick-xml = "0.12.1"
+regex = "0.2"
+lazy_static = "1.0"
